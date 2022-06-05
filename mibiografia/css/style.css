@@ -1,0 +1,181 @@
+
+
+/* ----------------------Pagina Index----------------*/
+
+header{
+    display: flex;
+    background-color: #ddd26d;
+
+}
+
+body{
+    background-color: antiquewhite;
+
+}
+
+
+
+/* ----------------------Pagina Index----------------*/
+
+.Logo{
+    display: block;
+    height: 150px;
+	width: 205px;
+	padding: 10px 20px  ;
+	background:  #ddd26d;
+    border-block: 5px;
+	text-align: right;
+	text-decoration: none;    
+}
+
+.namepage{
+	display: block;
+	width: 20%;
+    text-size-adjust: 15%;
+	padding: 10px 70px  ;
+	background: #ddd26d;
+    color:rgb(0, 0, 0); 
+	text-align: center;
+	text-decoration: none;   
+}
+
+.login{
+    border-radius: 7px;
+    padding: 10px 20px  ;
+}
+
+.textbiography1{
+    display: flex;
+    background-color: antiquewhite;
+    padding: 20px, 30px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(86, 207, 167);
+    
+  }
+
+.buscador{
+    padding-top: 7px;
+    padding-right: ;
+    padding-left: 20px;
+    padding-bottom: ; 
+
+
+}
+
+.photoangel{
+    display: block;
+    background-color: antiquewhite; 
+    padding: 15px, 10px;
+    width: 220px;
+    height: 250px;
+
+}
+.textbiography2{
+    display: flex;
+    background-color: antiquewhite;
+    padding: 20px, 30px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+
+}
+.photoalejandro{
+    background-color: antiquewhite; 
+    /*     padding: 15px, 10px; */
+    width: 180px;
+
+}
+
+.backcolor{
+ background-color: darkmagenta;
+ 
+}
+
+/* ----------------------Pagina Ninez----------------*/
+.textprimaria{
+    display: flex;
+    background-color: antiquewhite;
+    padding: 20px, 30px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 20px;   
+}
+
+.tbDatosPersonales{
+    padding: 10px;
+    border-color: black;
+    border-collapse: collapse;
+    border: 2px solid black
+
+}
+
+td, tr{
+    border-color: black;
+    border-collapse: collapse;
+    border: 2px solid black
+
+}
+
+/* ----------------------Pagina Adolecencia----------------*/
+.textsecundaria{
+    display: flex;
+    background-color: antiquewhite;
+    padding: 20px, 30px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+
+/* ----------------------Pagina Juventud----------------*/
+.textpreparatoria{
+    display: flex;
+    background-color: antiquewhite;
+    padding: 20px, 30px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+
+/* ----------------------Pagina Juventud-Actualidad----------------*/
+.textuniversidad{
+    display: flex;
+    background-color: antiquewhite;
+    padding: 20px, 30px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
